@@ -44,3 +44,5 @@ $(document).on('ready', function () {
 	App.initScrollSpy();
 	App.initParallax();
 });
+
+ $(".button-collapse").sideNav();
